@@ -5,11 +5,7 @@ header{
 	height:700px;
 }
 
-.fa{
-	color:white;
-	width: 40px;
-	height:40px;
-}
+
 
 nav ul 
 {
@@ -74,4 +70,255 @@ nav li
 	left:350px;
 	opacity: 0.5;
     filter:  alpha(opacity=50);
+}
+
+
+.icon
+{
+	color:#0FA592;
+	font-size: 45px;
+}
+
+.icons-part
+{
+	position:relative;
+	top:150px;
+
+}
+.two
+{
+	position:relative;
+	top:250px;
+}
+
+.netbook
+{
+	height:490px;
+	position:relative;
+	top:400px;
+}
+
+.laptop-img
+{
+	height:400px;
+	width:700px;
+	position:relative;
+	top:70px;
+	left:30%;
+	l
+}
+
+.netbook h2 
+{
+	position:relative;
+	left:50%;
+	top:80px;
+}
+
+.icoons
+{
+	position:relative;
+	top:500px;
+}
+
+.icon-info-text 
+{
+	box-sizing:border-box;
+	display:inline;
+}
+.icon-text
+{
+	width:500px;
+	position:relative;
+	display:inline;
+	bottom:30px;
+	left:35px;
+
+}
+.portfolio
+{
+	height:1460px;
+	position:relative;
+	top:500px;
+}
+.portfolio h1 
+{
+	font-size: 40px;
+	position:relative;
+	left:80%;
+	top:50px;
+
+}
+.head-text-portf
+{
+	position:relative;
+	left:50%;
+	top:80px;
+}
+
+.menu-portfol ul
+{
+	list-style-type: none;
+	position:relative;
+	left:-60px;
+	top:115px;
+	float:right;
+
+}
+
+.menu-portfol li 
+{
+	
+	margin-left: 5px;
+	box-sizing:border-box;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+}
+.menu-portfol li:first-child
+{
+	background-color:#06A598;
+}
+
+.grid-img
+{
+	width:500px;
+	height:250px;
+	position:relative;
+	top:25px;
+	left:20px;
+	
+}
+
+.container-img
+{
+	background-color: white;
+	width:540px;
+	height:340px;
+	position:relative;
+	top:200px;
+	margin-bottom: 15px;
+	margin-right: 20px;
+	box-shadow: 2px 2px 5px #999;
+}
+.container-img h3, .container-img p
+{
+	position:relative;
+	top:20px;
+}
+
+.btn-portf
+{
+	border-style: none;
+	background-color: #454343;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	position:relative;
+	top:250px;
+	left:147%;
+}
+
+.city{
+	position:relative;
+	top:500px;
+	background-image: url("../img/background/city.jpg");
+	height:400px;
+	
+
+}
+.city h1
+{
+	position:relative;
+	top:130px;
+}
+
+.btn-call
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-style: none;
+	background-color: white;
+	opacity:0.5;
+	position:relative;
+	left:500px;
+	top:260px;
+	padding-left: 20px;
+	padding-right: 17px;
+}
+.text-btn
+{
+	position:relative;
+	left:510px;
+	top:230px;
+}
+.choose{
+	height:1200px;
+	position:relative;
+	top:500px;
+
+}
+.choose h1
+{
+	position:relative;
+	top:50px;
+	left:38%;
+	color:#575050;
+	font-size: 35px;
+}
+
+.choose p 
+{
+	position:relative;
+	top:90px;
+	left:27%;
+
+}
+
+.option-plane
+{
+	width:340px;
+	height:900px;
+
+	position:relative;
+	top:150px;
+	background-color: white;
+	margin-right: 10px;
+	box-shadow: 2px 2px 5px #999;
+}
+
+.type-plane
+{
+	width:300px;
+	height:280px;
+	position:relative;
+	top:50px;
+	left:18px;
+
+}
+.option-type
+{
+	width:300px;
+	height:100px;
+	background-color: #403939;
+	position:relative;
+	
+}
+.option-type h1 
+{
+	position:relative;
+	top:30px;
+	left:80px;
+	color:white;
+}
+
+.type-plane h1 
+{
+	position:relative;
+	left:40px;
+}
+.other
+{
+	background-color: #0CBCD1;
 }
